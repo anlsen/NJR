@@ -1,0 +1,37 @@
+hr{
+                
+    border-style: dotted none none;
+    border-color: #548CFF;
+    height:0px;
+    width: 10%;
+    border-width: 10px;
+}
+body{
+    font-family: gotham;
+    background-color: #93FFD8;
+    
+}
+img{
+
+    border-style:none none none dotted;
+    border-color: #7900FF;
+    border-width: 20px;
+    padding-left: 20px;
+    
+    width: 300px;
+    height: fit-content;
+    
+}
+
+h1{
+    
+    color: #7900FF;
+}
+h2{
+
+    color: #7900FF;
+}
+
+a{
+    color: blueviolet;
+}
